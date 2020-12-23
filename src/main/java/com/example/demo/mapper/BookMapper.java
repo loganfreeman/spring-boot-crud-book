@@ -1,11 +1,10 @@
-package com.example.mapper;
+package com.example.demo.mapper;
 
 import com.example.demo.entities.Book;
-import com.example.dto.BookDTO;
+import com.example.demo.dto.BookDTO;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.MappingTarget;
-import org.mapstruct.Mappings;
 import org.mapstruct.factory.Mappers;
 
 @Mapper

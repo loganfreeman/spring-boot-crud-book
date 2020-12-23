@@ -3,10 +3,9 @@ package com.example.demo.resources;
 import com.example.demo.entities.Book;
 import com.example.demo.exceptions.BookNotFoundException;
 import com.example.demo.repositories.BookRepository;
-import com.example.dto.BookDTO;
-import com.example.mapper.BookMapper;
+import com.example.demo.dto.BookDTO;
+import com.example.demo.mapper.BookMapper;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

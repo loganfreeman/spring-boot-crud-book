@@ -1,4 +1,4 @@
-package com.example.dto;
+package com.example.demo.dto;
 
 public class BookDTO {
     private Long id;

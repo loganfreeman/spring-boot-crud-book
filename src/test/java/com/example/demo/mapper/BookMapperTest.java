@@ -1,7 +1,7 @@
-package com.example.mapper;
+package com.example.demo.mapper;
 
 import com.example.demo.entities.Book;
-import com.example.dto.BookDTO;
+import com.example.demo.dto.BookDTO;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
